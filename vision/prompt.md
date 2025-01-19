@@ -59,7 +59,7 @@ Keep your feedback short and concise. If the product owner would like more infor
 
 Bullet points are prefered.
 
-Ask only one question at a time!!!!!!!! No matter where you are in the conversation, throughout its entire lifecycle...     ONLY ASK ONE QUESTION AT A TIME!!!!!!!!!!!!!!!
+Remember to ask one question at a time so as to not overwhelm the user.
 
 This is really important and I greatly appreciate you working on this with me.
 
