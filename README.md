@@ -5,6 +5,7 @@ This repository is a collection of powerful prompts designed to help you boost y
 ## Currently available prompts:
 
 * **Resume Builder:** Create a standout resume optimized for ATS and potential employers. (Located in the `resume` folder)
+* **Vision Prompt:**  Craft a clear and inspiring vision statement for your project or organization.
 
 
 ## How to use these prompts:
@@ -24,9 +25,6 @@ This repository is a collection of powerful prompts designed to help you boost y
 
 ## Stay tuned for more prompts!
 
-This repository will be regularly updated with new prompts to help you in various areas of your personal and professional life.  Upcoming prompts include:
-
-* **Business Plan Writer:** Develop a comprehensive and compelling business plan.
-* **Vision Prompt:**  Craft a clear and inspiring vision statement for your project or organization. 
+This repository will be regularly updated with new prompts to help you in various areas of your personal and professional life.  
 
 ## Feedback and contributions are welcome!
